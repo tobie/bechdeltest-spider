@@ -1,0 +1,14 @@
+{
+  "name": "bechdeltest-spider",
+  "version": "0.0.0",
+  "description": "A spider for bechdeltest.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobie Langel <tobie.langel@gmail.com>",
+  "dependencies": {
+      "request": "*",
+      "jsdom": "*"
+  }
+}
